@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{780488F4-0A43-D190-968A-4236CE8A6D4A}") = "Reave v1.0", "Assembly-CSharp.csproj", "{AC71A900-53D5-1BA5-0003-AA5D18A7EF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC71A900-53D5-1BA5-0003-AA5D18A7EF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC71A900-53D5-1BA5-0003-AA5D18A7EF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC71A900-53D5-1BA5-0003-AA5D18A7EF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC71A900-53D5-1BA5-0003-AA5D18A7EF88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
